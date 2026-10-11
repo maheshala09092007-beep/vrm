@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Application data (pickle files are machine-local records)
+data/*.pkl
+data/*.pkl.bak
+data/*.corrupt
+data/.tmp-*
+
+# Test / editor artefacts
+.coverage
+htmlcov/
+.pytest_cache/
+.idea/
+.vscode/

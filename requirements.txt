@@ -1,0 +1,7 @@
+# Vehicle Rental Management System - runtime requirements
+#
+# The project uses ONLY the Python standard library
+# (pickle, dataclasses, datetime, decimal, argparse, unittest, ...).
+# There is nothing to install.
+#
+# Tested with Python 3.14; Python 3.9 or newer is required.
